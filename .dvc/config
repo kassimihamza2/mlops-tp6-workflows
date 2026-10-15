@@ -1,4 +1,6 @@
 [core]
     remote = stockage
+[cache]
+    type = copy
 ['remote "stockage"']
     url = ../../dvc-stockage
